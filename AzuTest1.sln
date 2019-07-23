@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.438
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzuTest1", "AzuTest1\AzuTest1.csproj", "{ACC41532-6209-4F91-994B-E86283EE16EE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AzuTest1", "AzuTest1\AzuTest1.csproj", "{ACC41532-6209-4F91-994B-E86283EE16EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CtrlTest", "CtrlTest\CtrlTest.csproj", "{EDC7A5BB-2B87-47D8-A2B0-E77178AE05F7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{ACC41532-6209-4F91-994B-E86283EE16EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ACC41532-6209-4F91-994B-E86283EE16EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ACC41532-6209-4F91-994B-E86283EE16EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDC7A5BB-2B87-47D8-A2B0-E77178AE05F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDC7A5BB-2B87-47D8-A2B0-E77178AE05F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDC7A5BB-2B87-47D8-A2B0-E77178AE05F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDC7A5BB-2B87-47D8-A2B0-E77178AE05F7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
