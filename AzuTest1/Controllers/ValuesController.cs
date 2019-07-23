@@ -14,7 +14,6 @@ namespace AzuTest1.Controllers
         [HttpGet]
         public ActionResult<IEnumerable<string>> Get()
         {
-            throw new Excn();
             return new string[] { "value1", "value2", "value2" };
         }
 
